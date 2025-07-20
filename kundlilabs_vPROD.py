@@ -12,9 +12,9 @@ from typing import cast
 ################################################################################
 
 # Static birth details for MVP
-STATIC_PLACE = "Mumbai"
-STATIC_BIRTHDATE = "1999-09-02"
-STATIC_BIRTHTIME = "10:52"
+STATIC_PLACE = "Samastipur"
+STATIC_BIRTHDATE = "1995-10-09"
+STATIC_BIRTHTIME = "8:22"
 
 # Planet constants for Swiss Ephemeris
 PLANETS = {
